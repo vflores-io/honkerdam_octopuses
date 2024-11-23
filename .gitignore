@@ -3,3 +3,9 @@ data/dump/gfibot/resolved_issue.bson.gz
 data/dump/gfibot/resolved_issue.metadata.json.gz
 data/dump/gfibot/dataset.bson.gz
 data/dump.zip
+data/train-00121-of-00127.parquet
+data/train-00122-of-00127.parquet
+data/train-00123-of-00127.parquet
+data/train-00124-of-00127.parquet
+data/train-00125-of-00127.parquet
+data/train-00126-of-00127.parquet
