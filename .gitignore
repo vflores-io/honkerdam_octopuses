@@ -9,3 +9,13 @@ data/train-00123-of-00127.parquet
 data/train-00124-of-00127.parquet
 data/train-00125-of-00127.parquet
 data/train-00126-of-00127.parquet
+data/intermediate_data/similarity_chunks/similarity_chunk_0_1000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_1000_2000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_2000_3000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_3000_4000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_4000_5000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_5000_6000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_6000_7000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_7000_8000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_8000_9000.npz
+data/intermediate_data/similarity_chunks/similarity_chunk_9000_10000.npz
