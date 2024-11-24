@@ -1,7 +1,8 @@
 # Build
 
 ## Team: Honkerdam Octopuses! 🚀🐙
-We're a team passionate about data and simplifying workflows for developers. We're focusing on making it easier to get into the data world and improving onboarding for open-source newcoming contributors.
+We're on a mission to help **Novice Open Source Contributors** to overcome the overchoice issue, that might block them to do their First Contribution to OSS.
+Here's an app that will help the **Novice Open Source Contributors** find their first Good First Issue, that's tailored to their profile.
 
 ---
 
@@ -11,7 +12,7 @@ Github Good First Issue Recommender System
 ---
 
 ## Description
-This project is a web-based application designed to recommend similar GitHub issues using a simple neural network model, trained on commit data from GitHub. Its primary goal is to assist developers - especially those just starting out - in discovering **good first issues** based on their queries, which would ideally be based on their initial interests. By offering recommendations, the system makes it easier to navigate large repositories and helps **new contributors** get started faster and more in line with their own strengths. 
+This project is a web-based application designed to recommend similar GitHub issues using a simple neural network model, trained on commit data from GitHub. Its primary goal is to assist developers - especially those just starting out - in discovering **Good First Issues** based on their github users profile. By offering recommendations, the system makes it easier to navigate large repositories and helps **Novice Open Source Contributors** get started faster and more in line with their own strengths. 
 
 The app combines TF-IDF-based text processing with machine learning to provide an accessible solution.
 
