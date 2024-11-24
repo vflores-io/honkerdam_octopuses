@@ -1,0 +1,10 @@
+streamlit
+torch
+scipy
+pandas
+polars
+numpy
+scikit-learn
+plotly
+pymongo
+matplotlib
