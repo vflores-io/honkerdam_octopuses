@@ -171,7 +171,7 @@ if username:
         
         # Load your dataset here
         # For demonstration purposes, we use a sample dataframe
-        df= pd.read_csv("user_issues.csv")
+        df= pd.read_csv("small_user_issues.csv")
 
 
 
