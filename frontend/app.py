@@ -10,7 +10,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from backend.recommender import CustomGithubIssueRecommender
 
 # set up page configuration
-st.set_page_config(page_title = 'Github Issue Recommender', page_icon = ':rocket:', layout = 'wide')
+st.set_page_config(page_title = 'Github Issue Recommender', page_icon = ':rocket:', layout = 'centered')
 
 # cache the recommender instance to avoid reloading on every interaction
 @st.cache_resource

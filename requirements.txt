@@ -8,3 +8,4 @@ scikit-learn
 plotly
 pymongo
 matplotlib
+gower
