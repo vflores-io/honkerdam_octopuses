@@ -54,4 +54,7 @@ The app combines TF-IDF-based text processing with machine learning to provide a
     - Training on larger and more ad-hoc datasets.
     - Incorporating contextual embeddings (e.g. BERT).
     - Enhancing the user experience with additional visualizations and filtering options.
+ 
+![honkerdam_octopuses](https://github.com/user-attachments/assets/a7c7c2c8-141b-491d-b9bb-a86198c47a8a)
+
 
